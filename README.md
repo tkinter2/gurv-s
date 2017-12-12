@@ -3,7 +3,7 @@
 (C:\Users\Timmis\.atom\packages\script\node_modules\.bin\babel)
 (C:\Users\Timmis\.atom\packages\script\node_modules\.bin\babel)
 (C:\WINDOWS\System32\Wbem)
-# gurber
+# chrinchillr
 --filename C:\Users\Timmis\.atom\packages\script\node_modules\.bin| node' ###
 Unable to runrunnerDid you start Atom from the command line?  atom .Is it in your PATH?gurv-s
 gurber
